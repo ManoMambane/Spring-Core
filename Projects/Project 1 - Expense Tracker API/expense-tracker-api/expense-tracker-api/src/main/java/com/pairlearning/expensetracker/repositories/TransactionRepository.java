@@ -1,4 +1,4 @@
- package com.pairlearning.expensetracker.repositories;
+package com.pairlearning.expensetracker.repositories;
 
 import com.pairlearning.expensetracker.domain.Transaction;
 import com.pairlearning.expensetracker.exceptions.EtBadRequestException;
