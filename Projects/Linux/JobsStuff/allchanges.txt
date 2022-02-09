@@ -1,0 +1,13 @@
+/
+/home/mano/.bash_history
+/home/mano/.motd_shown
+/home/mano/.config
+/home/mano/.config/procps
+/etc
+/etc/resolv.conf
+/etc/hosts
+/etc/localtime
+/etc/timezone
+/etc/ld.so.cache
+/etc/hostname
+/etc/ld.so.conf.d/ld.wsl.conf
