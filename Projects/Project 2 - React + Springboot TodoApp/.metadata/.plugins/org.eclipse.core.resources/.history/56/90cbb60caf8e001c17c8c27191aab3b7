@@ -1,0 +1,5 @@
+package com.in28minutes.rest.webservices.restwebservices.basic.auth;
+
+public class BasicAuthenticationController {
+
+}
